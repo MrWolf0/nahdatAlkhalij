@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'KFGQPC Kufi Stylistic';
+	src: url(../../assets/fonts/KFGQPC%20Kufi%20Stylistic-06d9c89cb92021117959aa75828fda72.woff2) format('woff2'),
+	url(../../assets/fonts/KFGQPC%20Kufi%20Stylistic-e9b06ae19c95bb91ff7b777018ebdac3.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'KFGQPC Kufi Stylistic';
+	src: url(../../assets/fonts/KFGQPC%20Kufi%20Stylistic-06d9c89cb92021117959aa75828fda72.woff2) format('woff2'),
+	url(../../assets/fonts/KFGQPC%20Kufi%20Stylistic-e9b06ae19c95bb91ff7b777018ebdac3.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

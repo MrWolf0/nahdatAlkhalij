@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'bader_al yadawi';
+	src: url(../../assets/fonts/bader_al%20yadawi-03ec72e01a870bfea8adb60d8bb037e3.woff2) format('woff2'),
+	url(../../assets/fonts/bader_al%20yadawi-39a4fe2ab9d2bb8a8c7a8ab2476f957f.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}

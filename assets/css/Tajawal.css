@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Tajawal';
+	src: url(../../assets/fonts/Tajawal-8e8abfef07b42ffb0a75a3dca4a7230a.woff2) format('woff2'),
+	url(../../assets/fonts/Tajawal-e9851dacc2f2720f70afe6cb2aec8b9d.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

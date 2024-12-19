@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'AF_Jeddah';
+	src: url(../../assets/fonts/AF_Jeddah-843d12d9d9324b75a35dbc381c20bce2.woff2) format('woff2'),
+	url(../../assets/fonts/AF_Jeddah-410a59e759a43bdea09c8534b00e2763.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

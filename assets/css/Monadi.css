@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Monadi';
+	src: url(../../assets/fonts/Monadi-59201d5147e40a5e195178130401bf87.woff2) format('woff2'),
+	url(../../assets/fonts/Monadi-931f5b8c4c0b2bbefa69ea2b67558a84.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

@@ -1,0 +1,89 @@
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-4616ae0e97cdc1509b781162a863dc9a.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-95824202ca871bf42463cd2a4dec2b98.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-71f564f2b863efac07d314e304aa1dab.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-80e5812891f43a13cd5eee904894d205.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-26857d41c03958ae03548c4b9bd1a657.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-90824340a4ab0e7aa2b7f8b91b8503cf.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-ee4c628a9909b22f741082398a358bf2.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-8219a2316db8e38391c33d402fdf9cc6.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-ee4c628a9909b22f741082398a358bf2.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-8219a2316db8e38391c33d402fdf9cc6.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-466d95026a883a6bf9901cf1aabf6ed6.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-edee3212069e9b25cfa2dc409c457af5.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-052f20122a5cb36e2e4819b8a99fa2c9.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-6ac5667d61f0e43f72e6cd28318aab5c.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-c2ef9a3e661a17492c0a476c28ea0940.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-e1c4fdf57625683be4009fe0c763ab4e.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-3cbd5db72898f3721e7a8d48f35004db.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-1f1915b3dc7db1559cd6c1c515f2bdb2.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alexandria';
+	src: url(../../assets/fonts/Alexandria-4629555347c382630988486f73eee9b4.woff2) format('woff2'),
+	url(../../assets/fonts/Alexandria-a325773b72e9662a46f140b4ec950390.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

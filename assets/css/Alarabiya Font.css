@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Alarabiya Font';
+	src: url(../../assets/fonts/Alarabiya%20Font-0de812199a9bea47fabd65435c14c0aa.woff2) format('woff2'),
+	url(../../assets/fonts/Alarabiya%20Font-5e67888dab9c8e3f43dd2f0cf21fd40b.woff) format('woff');
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}

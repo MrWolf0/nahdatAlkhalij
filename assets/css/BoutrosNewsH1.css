@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'BoutrosNewsH1';
+	src: url(../../assets/fonts/BoutrosNewsH1-97f1e1a548ddd170330e3ee10c24569f.woff2) format('woff2'),
+	url(../../assets/fonts/BoutrosNewsH1-0e8818c3d18210ea74fbecded48c1229.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

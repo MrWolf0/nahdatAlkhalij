@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Alhurra';
+	src: url(../../assets/fonts/Alhurra-461b9b3e341173e3f5e03613cc7ea428.woff2) format('woff2'),
+	url(../../assets/fonts/Alhurra-0b45597082e83e83faf596628e7cc0bf.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

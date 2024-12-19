@@ -1,0 +1,80 @@
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-f67bd3da56f68535aff7fbd5618f25c3.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-6c28bb5722f525430e23103b510c5f38.woff) format('woff');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-7ce854abbb5891b34237c4d207762daa.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-876a5a2aba936e0df5aa28c8085ba4bd.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-d5ac6b5ee1adfb8bee175162d9b35812.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-52f0dbd8a55291a406cfa134334e5163.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-d5ac6b5ee1adfb8bee175162d9b35812.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-52f0dbd8a55291a406cfa134334e5163.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-e77f514181befcf1bada0683193df2f3.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-852af764fa8a8794e33c87ce2576fc8d.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-0a9a5bdd761200de0dd8d87e79b755a4.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-22f8ca69bd68dc7da2bf833332a649c2.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-f4bae9863095fd015f96e6e03a56cb6b.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-c03d04946a75f6f1dbedb3dc845b0884.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-27b9face7b2d3b16ff31505a0460ca94.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-87e6e8d5c31b95c16282321a1f7dda41.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Cairo';
+	src: url(../../assets/fonts/Cairo-160172198f8954218fe9736ca9c30796.woff2) format('woff2'),
+	url(../../assets/fonts/Cairo-0b2040e3228f9c77268b6daf62d6e651.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'FS_Diwany';
+	src: url(../../assets/fonts/FS_Diwany-d68e99f8992cae8c6947cb8dd4e61896.woff2) format('woff2'),
+	url(../../assets/fonts/FS_Diwany-4c72ec5445ddec914e28b4a1ff6e152e.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
