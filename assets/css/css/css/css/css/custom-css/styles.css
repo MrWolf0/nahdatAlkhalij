@@ -1,5 +1,3 @@
-/* Full-Screen Video Background */
-
 .video-background {
   position: relative;
   height: 100vh;
@@ -440,10 +438,11 @@ footer {
 
 /* Swiper Container */
 
+
 .swiper-container {
   width: 100%;
   max-width: 600px;
-  height: 820px;
+  height: 467px;
   margin: auto;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -475,6 +474,7 @@ header {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+
 /* Breadcrumb Styles */
 
 .breadcrumb-wrap {
@@ -501,13 +501,99 @@ header {
 /* Slider Styles */
 
 .featured-thumb-slider-area {
-  margin: 20px 0;
+  position: relative;
+  width: 100%; /* Use 100% width to make it responsive */
+  max-width: 600px; /* Set a max-width for larger screens */
+  margin: 0 auto;
 }
 
 .swiper-slide img {
+  transition: transform 0.3s ease;
+}
+
+.swiper-slide:hover img {
+  transform: scale(1.1); /* Slightly zoom in on hover */
+}
+
+/* Container for the main image and zoom effect */
+.image-container {
+  position: relative;
+  width: 100%; /* Use 100% width to make it responsive */
+  height: 0; /* Use padding-top to maintain aspect ratio */
+  padding-top: 66.67%; /* 400px / 600px = 0.6667 (for 3:2 aspect ratio) */
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Main image styling */
+.main-image {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: auto;
-  border-radius: 10px;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+/* Zoom effect overlay */
+.zoom-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("../../../../../../img/realestate_study.jpeg"); /* Same as main image */
+  background-size: 150%; /* Adjust zoom level */
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+/* Show zoom effect on hover */
+.image-container:hover .zoom-image {
+  opacity: 1;
+}
+
+/* Thumbnail container */
+.thumbnail-container {
+  display: flex;
+  justify-content: center;
+  gap: 5px; /* Adds spacing between thumbnails */
+  margin-top: 10px;
+}
+
+.thumbnail {
+  width: 60px; /* Adjusted width */
+  height: 45px; /* Adjusted height */
+  cursor: pointer;
+  border-radius: 5px; /* Optional: rounded corners for a sleek look */
+  transition: opacity 0.3s ease, transform 0.2s ease;
+  object-fit: cover; /* Ensures thumbnails fit without distortion */
+}
+
+.thumbnail:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* Media Queries for Mobile Devices */
+@media (max-width: 768px) {
+  .featured-thumb-slider-area {
+    max-width: 100%; /* Allow full width on smaller screens */
+  }
+
+  .image-container {
+    padding-top: 75%; /* Adjust aspect ratio for mobile */
+  }
+
+  .thumbnail {
+    width: 50px; /* Smaller thumbnails for mobile */
+    height: 38px; /* Smaller thumbnails for mobile */
+  }
 }
 
 /* Overview Styles */
